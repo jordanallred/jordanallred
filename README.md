@@ -4,6 +4,10 @@ Hi — I'm Jordan. I build reliable, reproducible classical machine learning sys
 
 [Website — contact form](https://jordanallred.dev)
 
+![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanallred&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanallred&layout=compact&theme=tokyonight)
+
 - 🔬 Focus: classical ML (scikit-learn, feature engineering, model validation)
 - 🐍 Primary language: Python
 - 🐳 Deployment: Docker / docker-compose
