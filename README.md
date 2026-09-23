@@ -70,20 +70,3 @@ Home-surveillance system with real-time object detection and a web interface.
 | Machine learning | scikit-learn, pandas, numpy, feature engineering, cross-validation |
 | Infra & backend | Docker, docker-compose, FastAPI, REST APIs |
 | Web | React, Next.js |
-
-<br>
-
-<div align="center">
-
-![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanallred&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanallred&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-<br>
-
-<div align="center">
-
-[jordanallred.dev](https://jordanallred.dev)
-
-</div>
