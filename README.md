@@ -1,57 +1,103 @@
-# Jordan Allred — Data Scientist & React tinkerer
+<div align="center">
 
-Hi — I'm Jordan. I build reliable, reproducible classical machine learning systems in Python and ship them with Docker. Lately I've been expanding into React for lightweight web UIs and demos.
+# Jordan Allred
 
-[Website — contact form](https://jordanallred.dev)
+Software developer working across low-level security tooling, systems programming, and applied machine learning.
 
-![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanallred&show_icons=true&theme=tokyonight)
+[jordanallred.dev](https://jordanallred.dev) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jordan-allred-/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanallred&layout=compact&theme=tokyonight)
+<br>
 
-- 🔬 Focus: classical ML (scikit-learn, feature engineering, model validation)
-- 🐍 Primary language: Python
-- 🐳 Deployment: Docker / docker-compose
-- ⚛️ Frontend: React (Vite)
-- ☁️ Interests: model reproducibility, lightweight inference APIs, pragmatic MLOps
-- 👪 Fun fact: I'm a triplet
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-## About me
-I enjoy turning data into reliable predictions and shipping them in a maintainable way. My work emphasizes solid validation, clear data contracts, and repeatable environments (tests + containers). On the front end I favor small, focused React apps for demos and tooling.
+</div>
 
-## Skills & tools
-- Modeling: scikit-learn, statsmodels, feature engineering, cross-validation, hyperparameter tuning
-- Data: pandas, numpy, SQL
-- Deployment & infra: Docker, docker-compose, basic CI, REST APIs (FastAPI)
-- Languages: Python, JavaScript (React)
-- Testing & reproducibility: unit & integration tests, deterministic pipelines, reproducible envs
+<br>
 
-## Typical project structure
-- model training & experiments in Python (notebooks or scripts)
-- model export (joblib / ONNX / well-documented artifact)
-- small FastAPI service that loads the artifact and exposes /predict
-- lightweight React frontend for demos, wired in docker-compose for local runs
+## About
+
+I build software across a few different areas: binary analysis and exploit-development tooling, small backend services (FastAPI, Docker), and — going back further — classical machine learning systems (scikit-learn, reproducible training pipelines). Recent work leans toward reverse engineering and security research; earlier projects focused on applied ML and lightweight web demos.
+
+<br>
 
 ## Featured projects
-- Live Object Detection — real-time object detection demo and utilities  
-  https://github.com/jordanallred/Live-Object-Detection
 
-- Rock Paper Scissors — an interactive demo/game (frontend + optional model or logic)  
-  https://github.com/jordanallred/rock-paper-scissors
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Friend — tooling / demo project (see repo for README and live/demo notes)  
-  https://github.com/jordanallred/friend
+**[ropnroll](https://github.com/jordanallred/ropnroll)**
+Semantic ROP/JOP gadget finder and automatic exploit-chain synthesizer for Windows PE binaries.
 
-## Model card (example)
-- Model type: classical classifier / regressor (scikit-learn)
-- Dataset: short description + link
-- Evaluation: primary metrics (AUC, RMSE, calibration)
-- Limitations: known biases, small sample issues
-- Intended use: production inference for X; not to be used for Y
+</td>
+<td width="50%" valign="top">
 
-## Badges & status (examples)
-- CI: ![build](https://img.shields.io/badge/build-passing-brightgreen)
-- Coverage: ![coverage](https://img.shields.io/badge/coverage-90%25-blue)
-- Add GitHub Readme Stats: https://github-readme-stats.vercel.app
+**[shortest-path-to-zero-day](https://github.com/jordanallred/shortest-path-to-zero-day)**
+Self-paced Windows vulnerability-research and exploit-dev course, rebuilt from a 2008 ManTech curriculum.
 
-## Resume & contact
-- Website & contact form: https://jordanallred.dev
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[stkfmt](https://github.com/jordanallred/stkfmt)**
+Generates clean terminal diagrams of hand-authored memory layouts for reverse-engineering notes and write-ups.
+
+</td>
+<td width="50%" valign="top">
+
+**[friend](https://github.com/jordanallred/friend)**
+C2 framework prototype: a FastAPI command server, a Textual TUI, and a Python beacon agent.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Live-Object-Detection](https://github.com/jordanallred/Live-Object-Detection)**
+Home-surveillance system with real-time object detection and a web interface.
+
+</td>
+<td width="50%" valign="top">
+
+**[portfolio](https://github.com/jordanallred/portfolio)**
+Personal developer portfolio site, built with Next.js.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Skills
+
+| Area | Tools |
+|---|---|
+| Security & systems | Reverse engineering, exploit development, binary analysis, Windows internals |
+| Languages | Python, C, TypeScript, Swift |
+| Machine learning | scikit-learn, pandas, numpy, feature engineering, cross-validation |
+| Infra & backend | Docker, docker-compose, FastAPI, REST APIs |
+| Web | React, Next.js |
+
+<br>
+
+<div align="center">
+
+![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanallred&show_icons=true&theme=tokyonight&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanallred&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+<br>
+
+<div align="center">
+
+[jordanallred.dev](https://jordanallred.dev)
+
+</div>
