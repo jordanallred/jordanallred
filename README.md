@@ -46,8 +46,8 @@ Generates clean terminal diagrams of hand-authored memory layouts for reverse-en
 <tr>
 <td width="50%" valign="top">
 
-**[friend](https://github.com/jordanallred/friend)**
-C2 framework prototype: a FastAPI command server, a Textual TUI, and a Python beacon agent.
+**[pktfmt](https://github.com/jordanallred/pktfmt)**
+Generates RFC-style ASCII packet diagrams from field definitions — a pip-installable, cross-platform alternative to the `protocol` tool.
 
 </td>
 <td width="50%" valign="top">
