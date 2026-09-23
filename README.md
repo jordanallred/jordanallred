@@ -57,17 +57,6 @@ Home-surveillance system with real-time object detection and a web interface.
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-**[portfolio](https://github.com/jordanallred/portfolio)**
-Personal developer portfolio site, built with Next.js.
-
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
 </table>
 
 <br>
