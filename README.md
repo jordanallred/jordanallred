@@ -38,36 +38,33 @@ Semantic ROP/JOP gadget finder and automatic exploit-chain synthesizer for Windo
 </td>
 <td width="50%" valign="top">
 
-**[shortest-path-to-zero-day](https://github.com/jordanallred/shortest-path-to-zero-day)**
-Self-paced Windows vulnerability-research and exploit-dev course, rebuilt from a 2008 ManTech curriculum.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 **[stkfmt](https://github.com/jordanallred/stkfmt)**
 Generates clean terminal diagrams of hand-authored memory layouts for reverse-engineering notes and write-ups.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[friend](https://github.com/jordanallred/friend)**
 C2 framework prototype: a FastAPI command server, a Textual TUI, and a Python beacon agent.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[Live-Object-Detection](https://github.com/jordanallred/Live-Object-Detection)**
 Home-surveillance system with real-time object detection and a web interface.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[portfolio](https://github.com/jordanallred/portfolio)**
 Personal developer portfolio site, built with Next.js.
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
